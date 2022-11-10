@@ -1,6 +1,6 @@
 ﻿using XAPI.NET.Abstractions;
 
-namespace XAPI.NET.Statements.Statements;
+namespace XAPI.NET.Statements.StatementStructure;
 public class Statement : IStatement<Guid>
 {
     public Guid Id { get; init; }

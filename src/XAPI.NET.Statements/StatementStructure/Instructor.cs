@@ -1,4 +1,4 @@
-﻿namespace XAPI.NET.Statements.Statements;
+﻿namespace XAPI.NET.Statements.StatementStructure;
 public record Instructor
 {
     public string Name { get; init; }

@@ -1,4 +1,4 @@
-﻿namespace XAPI.NET.Statements.Statements;
+﻿namespace XAPI.NET.Statements.StatementStructure;
 public record Extenstion(string Key, object values);
 public record BrowserInfo();
 public record CertificateLocation();

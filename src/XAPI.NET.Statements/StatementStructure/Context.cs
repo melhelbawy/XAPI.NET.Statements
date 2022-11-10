@@ -1,3 +1,3 @@
-﻿namespace XAPI.NET.Statements.Statements;
+﻿namespace XAPI.NET.Statements.StatementStructure;
 
 public record Context(Instructor Insstructor, string Plaform, string language);

@@ -1,4 +1,4 @@
-﻿namespace XAPI.NET.Statements.Statements;
+﻿namespace XAPI.NET.Statements.StatementStructure;
 public record Actor
 {
     public string Mbox { get; init; }

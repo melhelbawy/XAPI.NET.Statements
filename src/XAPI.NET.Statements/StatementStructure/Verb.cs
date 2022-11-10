@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace XAPI.NET.Statements.Statements;
+namespace XAPI.NET.Statements.StatementStructure;
 public record Verb
 {
     [JsonPropertyName("id")]
